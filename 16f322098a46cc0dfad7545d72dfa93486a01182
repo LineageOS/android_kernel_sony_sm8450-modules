@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "37dc2884_5df85e70",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36488
+      },
+      "writtenOn": "2026-01-19T07:41:11Z",
+      "side": 1,
+      "message": "For me the brightness doesn\u0027t change when entering AOD, are there other patches involved that handles bl_config.bl_level before applying it again?",
+      "revId": "16f322098a46cc0dfad7545d72dfa93486a01182",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
