@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ee426bc9_08dd5349",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-02-11T14:30:53Z",
+      "side": 1,
+      "message": "Worked on pdx223, @pontus@jensenkarlsson.se also confirmed this one working on pdx224.",
+      "revId": "dd5d478456a654726751debd7c250e5b3544b29e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
